@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  livro: one
+  cliente: one
+  data_emprestimo: 2023-07-18 11:26:00
+  data_devolucao: 2023-07-18 11:26:00
+
+two:
+  livro: two
+  cliente: two
+  data_emprestimo: 2023-07-18 11:26:00
+  data_devolucao: 2023-07-18 11:26:00
